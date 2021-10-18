@@ -1,3 +1,5 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 # biraSkull.zsh-theme
 - source : [Bira-Theme](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme).
 - fonts : [symbola](https://fontlibrary.org/en/font/symbola "symbola")
